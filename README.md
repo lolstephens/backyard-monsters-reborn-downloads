@@ -4,7 +4,7 @@ Official Windows launcher downloads for **Backyard Monsters Reborn**.
 
 ## Download
 
-Get the newest installer from the [latest release](https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/latest).
+Get the newest installer from the [releases page](https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases).
 
 ## Preview status
 
