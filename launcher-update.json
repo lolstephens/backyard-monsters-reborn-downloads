@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "notes": "Adds cryptographically signed in-app launcher updates and the independent Reborn account server.",
+  "pub_date": "2026-08-20T20:30:00Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.2.0/Backyard-Monsters-Reborn-Launcher-Setup-0.2.0.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENOblBMY281MUpmMUczM3dzYU9raXpEK0xHRTJoVEJpTUxmVTBGN3ZXdlBNV2QvNVVSUERwK2NUNGpLUHlNcUpWNzlwbmVtVFYzUENDYVp2UXNNeWgvN1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjU4MDI4CWZpbGU6QmFja3lhcmQgTW9uc3RlcnMgUmVib3JuIExhdW5jaGVyXzAuMi4wX3g2NC1zZXR1cC5leGUKR2tGaHBPOVZKWTg2cEFka3NMUVdid0Q1Q2dSalo2TkFtS2JDNk5KT1JKQ2NTVlpwcWZEbnN4UTI1aTE1NTc2VUNvNklCN1lnLzdFSENxYlU4eCtRQWc9PQo="
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.2.0/Backyard-Monsters-Reborn-Launcher-Setup-0.2.0.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENOblBMY281MUpmMUczM3dzYU9raXpEK0xHRTJoVEJpTUxmVTBGN3ZXdlBNV2QvNVVSUERwK2NUNGpLUHlNcUpWNzlwbmVtVFYzUENDYVp2UXNNeWgvN1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjU4MDI4CWZpbGU6QmFja3lhcmQgTW9uc3RlcnMgUmVib3JuIExhdW5jaGVyXzAuMi4wX3g2NC1zZXR1cC5leGUKR2tGaHBPOVZKWTg2cEFka3NMUVdid0Q1Q2dSalo2TkFtS2JDNk5KT1JKQ2NTVlpwcWZEbnN4UTI1aTE1NTc2VUNvNklCN1lnLzdFSENxYlU4eCtRQWc9PQo="
+    }
+  }
+}
