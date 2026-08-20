@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "channel": "preview",
+  "version": "0.1.0-preview.1",
+  "publishedAt": "2026-08-20T19:00:00Z",
+  "serverName": "BYMR Community Server",
+  "releaseNotes": [
+    "Initial playable Backyard Monsters Reborn preview for Windows.",
+    "Uses the BYMR v1.7.0-beta preservation client as the Reborn baseline.",
+    "Connects to the BYMR community server while dedicated Reborn infrastructure is prepared."
+  ],
+  "client": {
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.1.0-preview.1/BackyardMonstersReborn.swf",
+    "sha256": "16561b4c583bc4159cf75fbc2eab209460f15c274f085a7fab3ca79cd7ecd8b2",
+    "sizeBytes": 3382257,
+    "fileName": "BackyardMonstersReborn.swf"
+  },
+  "runtimes": {
+    "windows": {
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.1.0-preview.1/flashplayer.exe",
+      "sha256": "5d2ac95ce45dce9e76d5ffe32a3d6b3699b5f314024f46965b620808ead65343",
+      "sizeBytes": 16807480,
+      "fileName": "flashplayer.exe"
+    },
+    "macos": null,
+    "linux": null
+  }
+}
