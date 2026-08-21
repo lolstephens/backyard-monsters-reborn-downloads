@@ -6,7 +6,7 @@
   "serverName": "BYM Reborn",
   "releaseNotes": [
     "Migrates all game client, API, and asset traffic to bymreborn.com.",
-    "Removes the runtime dependency on the JuiceWRLDVault hostname.",
+    "Removes the former shared-hostname dependency.",
     "Retains working Reborn account registration and login on the dedicated VPS database."
   ],
   "client": {
