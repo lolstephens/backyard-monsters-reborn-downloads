@@ -12,7 +12,7 @@ The launcher and Windows game payload are stable releases. Reborn runs against i
 
 Independent game endpoint: `https://bymreborn.com/`
 
-Launcher v0.2.3 removes the old top identity bar, uses the Reborn homepage artwork as the full launcher backdrop, and adopts the new monster artwork for the launcher and Windows icon. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
+Launcher v0.2.4 adds a Sign out option under Settings that clears the saved Reborn account login from the current computer. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
 
 The Windows installer is not code-signed yet. Windows SmartScreen may show an **Unknown publisher** warning.
 
