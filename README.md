@@ -10,6 +10,8 @@ Get the newest installer from the [releases page](https://github.com/lolstephens
 
 The launcher and Windows game payload are currently preview builds. Reborn now runs against its own HTTPS game server, PostgreSQL account database, and Redis session store on our VPS. Players can register and log in from the game client.
 
+Independent game endpoint: `https://bymreborn.com/`
+
 Launcher v0.2.0 introduces signed in-app launcher updates. Users installing v0.2.0 will receive future launcher releases without repeatedly downloading a new setup program from GitHub.
 
 The Windows installer is not code-signed yet. Windows SmartScreen may show an **Unknown publisher** warning.
