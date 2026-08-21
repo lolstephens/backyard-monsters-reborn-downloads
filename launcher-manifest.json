@@ -5,9 +5,9 @@
   "publishedAt": "2026-08-21T01:43:12Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Migrates all game client, API, and asset traffic to bymreborn.com.",
-    "Removes the former shared-hostname dependency.",
-    "Retains working Reborn account registration and login on the dedicated VPS database."
+    "Game client connection ready.",
+    "Reborn account services are available.",
+    "Your next yard session is ready to launch."
   ],
   "client": {
     "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.1-preview.1/BackyardMonstersReborn.swf?domain=bymreborn",

@@ -12,7 +12,7 @@ The launcher and Windows game payload are currently preview builds. Reborn now r
 
 Independent game endpoint: `https://bymreborn.com/`
 
-Launcher v0.2.0 introduces signed in-app launcher updates. Users installing v0.2.0 will receive future launcher releases without repeatedly downloading a new setup program from GitHub.
+Launcher v0.2.1 introduces the Golden D.A.V.E. identity, a full-scale game backdrop, and live activity logs. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
 
 The Windows installer is not code-signed yet. Windows SmartScreen may show an **Unknown publisher** warning.
 
