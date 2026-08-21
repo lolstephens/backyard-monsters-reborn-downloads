@@ -6,9 +6,9 @@ Official Windows launcher downloads for **Backyard Monsters Reborn**.
 
 Get the newest installer from the [releases page](https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases).
 
-## Preview status
+## Release status
 
-The launcher and Windows game payload are currently preview builds. Reborn now runs against its own HTTPS game server, PostgreSQL account database, and Redis session store on our VPS. Players can register and log in from the game client.
+The launcher and Windows game payload are stable releases. Reborn runs against its own HTTPS game server, PostgreSQL account database, and Redis session store on our VPS. Players can register and log in from the game client.
 
 Independent game endpoint: `https://bymreborn.com/`
 
