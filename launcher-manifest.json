@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.2.1",
-  "publishedAt": "2026-08-21T17:43:35Z",
+  "version": "0.2.2",
+  "publishedAt": "2026-08-21T18:37:07Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Game client connection ready.",
-    "Reborn account services are available.",
+    "Your Reborn account now stays signed in between launches.",
+    "Game client connection and account services are ready.",
     "Your next yard session is ready to launch."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.1/BackyardMonstersReborn.swf?domain=bymreborn",
-    "sha256": "a429c2474d3afe0abd4df676c93d6dd23c04bb1a67f1b6455b648ff4a04f3c48",
-    "sizeBytes": 3382457,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.2/BackyardMonstersReborn.swf?domain=bymreborn",
+    "sha256": "ea8f8b5ce8e04d6bc10787876285cf11f1033e6db462ad2cf2944104281f7df4",
+    "sizeBytes": 3382582,
     "fileName": "BackyardMonstersReborn.swf"
   },
   "runtimes": {
     "windows": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.1/flashplayer.exe",
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.2/flashplayer.exe",
       "sha256": "5d2ac95ce45dce9e76d5ffe32a3d6b3699b5f314024f46965b620808ead65343",
       "sizeBytes": 16807480,
       "fileName": "flashplayer.exe"
