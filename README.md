@@ -12,7 +12,7 @@ The launcher and Windows game payload are stable releases. Reborn runs against i
 
 Independent game endpoint: `https://bymreborn.com/`
 
-Launcher v0.2.5 adds Reborn account login, secure remembered sessions, language selection, account links, and Discord verification status directly inside the launcher. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
+Launcher v0.2.6 introduces the redesigned three-zone launcher, a cleaner open artwork stage, compact Discord and What's New controls, and new Backyard Monsters Reborn desktop icon artwork. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
 
 The Windows installer is not code-signed yet. Windows SmartScreen may show an **Unknown publisher** warning.
 
