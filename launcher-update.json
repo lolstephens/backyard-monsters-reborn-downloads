@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
-  "notes": "Adds the transparent Golden D.A.V.E. identity, redesigned game title, stable release channel, and a streamlined install-and-play layout.",
-  "pub_date": "2026-08-21T18:02:35Z",
+  "version": "0.2.3",
+  "notes": "Removes the launcher top bar, uses the Reborn homepage artwork as the full backdrop, and adopts the new monster artwork for the launcher and Windows icon.",
+  "pub_date": "2026-08-21T18:55:17Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.2.2/Backyard-Monsters-Reborn-Launcher-Setup-0.2.2.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkx1TkltWldFeG5VaUI5N29obWVmeDU1cHR6MjJqdW1TSXczSC9LQzUvbzFtT0J6bTlDdUlXejk3V1F6emp1QlhhT1p0OGhmZkJpK2ZGdWJFdC9wZlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzM1MzAwCWZpbGU6QmFja3lhcmQgTW9uc3RlcnMgUmVib3JuIExhdW5jaGVyXzAuMi4yX3g2NC1zZXR1cC5leGUKOVltY01Hb3hrdDRvQVNqWkd6elJ1S2dzbk5OQW5uVzljZDA4OE11MEthZEN2Skx6dTlsZVhsdnFPc3N3eUVBdEtrODlkWjJmbVI1WmkxZVJlTk9BQkE9PQo="
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.2.3/Backyard-Monsters-Reborn-Launcher-Setup-0.2.3.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkozejRkclFIZk0rSno2OWRQdzJReXdLRUp4Z2YyNmVRRkc3NHFFTkVsNHg2QWVML2VHREVKTWlKdkRWRThXUFJCTGQzTjFPVHNFSEV1ZVA2eWhLTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzM4NDY4CWZpbGU6QmFja3lhcmQgTW9uc3RlcnMgUmVib3JuIExhdW5jaGVyXzAuMi4zX3g2NC1zZXR1cC5leGUKcmtqL0VIZmh4THgvb3JjN1pKd0xrV2o5bzQwb2xqMDB2cUx6TG8xN2xIU1I4VmV3RU9BMndHUFErRG1pbGhReGVBOGhEUjAzQWdsOXpaazVZSXlWQ3c9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.2.2/Backyard-Monsters-Reborn-Launcher-Setup-0.2.2.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkx1TkltWldFeG5VaUI5N29obWVmeDU1cHR6MjJqdW1TSXczSC9LQzUvbzFtT0J6bTlDdUlXejk3V1F6emp1QlhhT1p0OGhmZkJpK2ZGdWJFdC9wZlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzM1MzAwCWZpbGU6QmFja3lhcmQgTW9uc3RlcnMgUmVib3JuIExhdW5jaGVyXzAuMi4yX3g2NC1zZXR1cC5leGUKOVltY01Hb3hrdDRvQVNqWkd6elJ1S2dzbk5OQW5uVzljZDA4OE11MEthZEN2Skx6dTlsZVhsdnFPc3N3eUVBdEtrODlkWjJmbVI1WmkxZVJlTk9BQkE9PQo="
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.2.3/Backyard-Monsters-Reborn-Launcher-Setup-0.2.3.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkozejRkclFIZk0rSno2OWRQdzJReXdLRUp4Z2YyNmVRRkc3NHFFTkVsNHg2QWVML2VHREVKTWlKdkRWRThXUFJCTGQzTjFPVHNFSEV1ZVA2eWhLTEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzM4NDY4CWZpbGU6QmFja3lhcmQgTW9uc3RlcnMgUmVib3JuIExhdW5jaGVyXzAuMi4zX3g2NC1zZXR1cC5leGUKcmtqL0VIZmh4THgvb3JjN1pKd0xrV2o5bzQwb2xqMDB2cUx6TG8xN2xIU1I4VmV3RU9BMndHUFErRG1pbGhReGVBOGhEUjAzQWdsOXpaazVZSXlWQ3c9PQo="
     }
   }
 }
