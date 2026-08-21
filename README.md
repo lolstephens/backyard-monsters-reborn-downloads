@@ -12,7 +12,7 @@ The launcher and Windows game payload are stable releases. Reborn runs against i
 
 Independent game endpoint: `https://bymreborn.com/`
 
-Launcher v0.2.1 introduces the Golden D.A.V.E. identity, a full-scale game backdrop, and live activity logs. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
+Launcher v0.2.2 adds the transparent Golden D.A.V.E. identity, a cleaner game-title treatment, and a streamlined install-and-play layout. Users on v0.2.0 or newer receive launcher upgrades through the signed in-app updater.
 
 The Windows installer is not code-signed yet. Windows SmartScreen may show an **Unknown publisher** warning.
 
