@@ -6,8 +6,8 @@
   "serverName": "BYM Reborn",
   "releaseNotes": [
     "The in-game Add button now opens the Reborn Shiny Shop.",
-    "Shiny bundles are visible while secure Stripe payments are being prepared.",
-    "Purchasing remains disabled until the payment service is connected."
+    "Secure Stripe Checkout is now available for Shiny purchases.",
+    "Completed purchases are delivered server-side with duplicate-payment protection."
   ],
   "client": {
     "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.4/BackyardMonstersReborn.swf?domain=bymreborn",
