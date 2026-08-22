@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.2.4",
-  "publishedAt": "2026-08-22T02:56:05Z",
+  "version": "0.2.5",
+  "publishedAt": "2026-08-22T04:04:15Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "The in-game Add button now opens the Reborn Shiny Shop.",
-    "Secure Stripe Checkout is now available for Shiny purchases.",
-    "Completed purchases are delivered server-side with duplicate-payment protection."
+    "The Add button now opens a native in-game Shiny Shop prompt before secure checkout.",
+    "The Shiny Shop route now refreshes correctly instead of showing a cached 404 page.",
+    "In-game chat is enabled through the dedicated Reborn chat service."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.4/BackyardMonstersReborn.swf?domain=bymreborn",
-    "sha256": "b93229a6d4b128ab5e956f481e2d667be312ccfb36cc6dfd733e5339e3fa7ab4",
-    "sizeBytes": 3382946,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.5/BackyardMonstersReborn.swf?domain=bymreborn",
+    "sha256": "4ba6f4545289fbc3c26b496bb5424adab7e0a739809917db1a9f14639fd17a00",
+    "sizeBytes": 3382980,
     "fileName": "BackyardMonstersReborn.swf"
   },
   "runtimes": {
     "windows": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.4/flashplayer.exe",
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.2.5/flashplayer.exe",
       "sha256": "5d2ac95ce45dce9e76d5ffe32a3d6b3699b5f314024f46965b620808ead65343",
       "sizeBytes": 16807480,
       "fileName": "flashplayer.exe"
