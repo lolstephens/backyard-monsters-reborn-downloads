@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "version": "0.3.0",
+  "publishedAt": "2026-09-03T18:17:58Z",
+  "serverName": "BYM Reborn",
+  "releaseNotes": [
+    "The official BYM Reborn game client is now available.",
+    "Player settings carry forward automatically after updating.",
+    "Updated BYM Reborn game artwork and client branding throughout."
+  ],
+  "client": {
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.0/BYMReborn.swf",
+    "sha256": "ede58914c45db39f4f954e6569e579712ba5c7c0b1a85447e6a7723709c83e4b",
+    "sizeBytes": 3382958,
+    "fileName": "BYMReborn.swf"
+  },
+  "runtimes": {
+    "windows": {
+      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.0/flashplayer.exe",
+      "sha256": "5d2ac95ce45dce9e76d5ffe32a3d6b3699b5f314024f46965b620808ead65343",
+      "sizeBytes": 16807480,
+      "fileName": "flashplayer.exe"
+    },
+    "macos": null,
+    "linux": null
+  }
+}
