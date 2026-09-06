@@ -1,15 +1,15 @@
 {
-  "version": "0.3.1",
-  "notes": "A new BYM Reborn launcher update is ready.",
-  "pub_date": "2026-09-03T19:02:36Z",
-  "platforms": {
-    "windows-x86_64-nsis": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.3.1/BYM-Reborn-Launcher-Setup-0.3.1.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkYxVVRhSFl2aXpVaEZIdzU3VzgycHY2VG90WG5ZRDVybStPWkNmMTRPdHd2OW82M01aL2dHemJNZ2tpcTFqWGJXa0VTd0pjZkd0d2VTZ1BRNWhZTnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDYxOTYzCWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjMuMV94NjQtc2V0dXAuZXhlCjZpNlFCaFpXaDdhUWNESE83ZlM3UnBBZU1NZHJVMVliOWVyK2s0UEJXazdDcnpteVpNQkxRTE15N1QwSXZIbTdkZzAyQkdVU0FjZ2lxQjhucGNvMUFBPT0K"
-    },
-    "windows-x86_64": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.3.1/BYM-Reborn-Launcher-Setup-0.3.1.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkYxVVRhSFl2aXpVaEZIdzU3VzgycHY2VG90WG5ZRDVybStPWkNmMTRPdHd2OW82M01aL2dHemJNZ2tpcTFqWGJXa0VTd0pjZkd0d2VTZ1BRNWhZTnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDYxOTYzCWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjMuMV94NjQtc2V0dXAuZXhlCjZpNlFCaFpXaDdhUWNESE83ZlM3UnBBZU1NZHJVMVliOWVyK2s0UEJXazdDcnpteVpNQkxRTE15N1QwSXZIbTdkZzAyQkdVU0FjZ2lxQjhucGNvMUFBPT0K"
-    }
-  }
+    "version":  "0.4.0",
+    "notes":  "Explore the new BYM Reborn Command Center, with a redesigned yard view and easier access to play, Discord, repair, and settings.",
+    "pub_date":  "2026-09-06T19:03:50Z",
+    "platforms":  {
+                      "windows-x86_64-nsis":  {
+                                                  "url":  "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.4.0/BYM-Reborn-Launcher-Setup-0.4.0.exe",
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObklMQTNnQndQZGc4c3FhTHlxMnRTUnI4cFU5RytjOGpnM0VOTTdBSXYzZHJ2UnhVMFcvVzZNZU5xWmlVZTczVHJ3UEcvVGw3MGU2b3hOdkdkYmU5UmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIxMTE3CWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjQuMF94NjQtc2V0dXAuZXhlCkI4S2dBR0Rka09VN1FLQjFtZFA0RlI2c09CSEdyTEIxVXdUeTBTTldSRlVLSzBEV0pUdW02WlBmbElnME52SU1xdWFjYnYwQnI4dmxiRy9yTXBCU0RBPT0K"
+                                              },
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.4.0/BYM-Reborn-Launcher-Setup-0.4.0.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObklMQTNnQndQZGc4c3FhTHlxMnRTUnI4cFU5RytjOGpnM0VOTTdBSXYzZHJ2UnhVMFcvVzZNZU5xWmlVZTczVHJ3UEcvVGw3MGU2b3hOdkdkYmU5UmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIxMTE3CWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjQuMF94NjQtc2V0dXAuZXhlCkI4S2dBR0Rka09VN1FLQjFtZFA0RlI2c09CSEdyTEIxVXdUeTBTTldSRlVLSzBEV0pUdW02WlBmbElnME52SU1xdWFjYnYwQnI4dmxiRy9yTXBCU0RBPT0K"
+                                         }
+                  }
 }
