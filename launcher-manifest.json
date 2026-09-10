@@ -1,18 +1,16 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.3",
-  "publishedAt": "2026-09-07T04:17:15.739Z",
+  "version": "0.3.4",
+  "publishedAt": "2026-09-10T13:54:31Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Removed an unnecessary wait before logging into your yard.",
-    "Improved startup across all supported languages.",
-    "Includes the in-game Shiny Shop."
+    "Fixed a crash when resizing the game while an attack warning is open."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.3/BYMReborn.swf",
-    "sha256": "5be9ffecb5670465973cc20d31e2c63bf8a5d5b122a8c48a33f457388e9eff37",
-    "sizeBytes": 3772388,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.4/BYMReborn.swf",
+    "sha256": "8125eea3c712b4c978ad659eec7acfc16e6864a28b218267210eb06a0599c7ff",
+    "sizeBytes": 3772536,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
