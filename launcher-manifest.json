@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.5",
-  "publishedAt": "2026-09-22T03:12:04Z",
+  "version": "0.3.6",
+  "publishedAt": "2026-09-22T17:45:38Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "New compact wood-and-gold Shiny Shop with five packs from $4.99 to $99.99.",
-    "Fixed General Store Add Shiny and large balance display."
+    "D.A.V.E. Club: immediate first 1,000 Shiny and benefits, accurate membership status, renewal dates and cancellation controls.",
+    "Shiny Shop now shows base Shiny plus the included bonus separately; prices and totals are unchanged."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.5/BYMReborn.swf",
-    "sha256": "4c5746328b3b08077e4fe3c87ec832726a49923df83f0aff27affa65baf4f304",
-    "sizeBytes": 6024912,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.6/BYMReborn.swf",
+    "sha256": "09cedbee3cc2b03b51a9e33e1d1fd947f182ce6ed0793c19ad53f98609bc0c63",
+    "sizeBytes": 6025938,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
