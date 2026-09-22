@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.4",
-  "publishedAt": "2026-09-10T13:54:31Z",
+  "version": "0.3.5",
+  "publishedAt": "2026-09-22T03:12:04Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Fixed a crash when resizing the game while an attack warning is open."
+    "New compact wood-and-gold Shiny Shop with five packs from $4.99 to $99.99.",
+    "Fixed General Store Add Shiny and large balance display."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.4/BYMReborn.swf",
-    "sha256": "8125eea3c712b4c978ad659eec7acfc16e6864a28b218267210eb06a0599c7ff",
-    "sizeBytes": 3772536,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.5/BYMReborn.swf",
+    "sha256": "4c5746328b3b08077e4fe3c87ec832726a49923df83f0aff27affa65baf4f304",
+    "sizeBytes": 6024912,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
