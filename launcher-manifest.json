@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.6",
-  "publishedAt": "2026-09-22T17:45:38Z",
+  "version": "0.3.7",
+  "publishedAt": "2026-09-22T18:07:32Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "D.A.V.E. Club: immediate first 1,000 Shiny and benefits, accurate membership status, renewal dates and cancellation controls.",
-    "Shiny Shop now shows base Shiny plus the included bonus separately; prices and totals are unchanged."
+    "Fixed Error #1009 when switching store tabs while merchandise artwork is loading.",
+    "Late images no longer update closed or reopened stores. Includes all game 0.3.6 membership and Shiny improvements."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.6/BYMReborn.swf",
-    "sha256": "09cedbee3cc2b03b51a9e33e1d1fd947f182ce6ed0793c19ad53f98609bc0c63",
-    "sizeBytes": 6025938,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.7/BYMReborn.swf",
+    "sha256": "4abcf3ace49130b1361dac5ebdb714c3a20f6939d8b834557ad54b23f507a672",
+    "sizeBytes": 6026046,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
