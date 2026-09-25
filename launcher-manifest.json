@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.8",
-  "publishedAt": "2026-09-25T05:16:48Z",
+  "version": "0.3.9",
+  "publishedAt": "2026-09-25T06:30:31Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Mystery Shipments: send free resource gifts, receive them offline, and Gift Back. Search players and keep favourites or recent recipients.",
-    "3 sends per day (midnight Eastern reset); up to 3 incoming gifts per rolling 24 hours. Senders earn 100 XP after acceptance.",
-    "Simplified game-style gift panel with yellow selected tabs. Includes all prior live game fixes."
+    "Chat opens at the newest messages after login or reconnect and respects manual history scrolling.",
+    "Invite Friends: personal invitation links in-game and on Account; friends count after tutorial completion. One-time milestone rewards: 25, 45 and 65 Shiny at 1, 5 and 10 friends.",
+    "Approved wooden-frame panel and transparent Shiny artwork. Retains game 0.3.8 gifting, 3 sends/day and 3 incoming gifts per rolling 24 hours."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.8/BYMReborn.swf",
-    "sha256": "b7406b9a1ac3872cec0136f881c37ee51dbfea00dbbdcb0fc055a79b162a70b2",
-    "sizeBytes": 6132544,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.9/BYMReborn.swf",
+    "sha256": "072dd9de3e3d050938485fd1d30d874d8c1321bd76175d1e843e489ec310372c",
+    "sizeBytes": 6168157,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
