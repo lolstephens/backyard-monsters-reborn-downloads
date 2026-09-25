@@ -1,17 +1,18 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.7",
-  "publishedAt": "2026-09-22T18:07:32Z",
+  "version": "0.3.8",
+  "publishedAt": "2026-09-25T05:16:48Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Fixed Error #1009 when switching store tabs while merchandise artwork is loading.",
-    "Late images no longer update closed or reopened stores. Includes all game 0.3.6 membership and Shiny improvements."
+    "Mystery Shipments: send free resource gifts, receive them offline, and Gift Back. Search players and keep favourites or recent recipients.",
+    "3 sends per day (midnight Eastern reset); up to 3 incoming gifts per rolling 24 hours. Senders earn 100 XP after acceptance.",
+    "Simplified game-style gift panel with yellow selected tabs. Includes all prior live game fixes."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.7/BYMReborn.swf",
-    "sha256": "4abcf3ace49130b1361dac5ebdb714c3a20f6939d8b834557ad54b23f507a672",
-    "sizeBytes": 6026046,
+    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.8/BYMReborn.swf",
+    "sha256": "b7406b9a1ac3872cec0136f881c37ee51dbfea00dbbdcb0fc055a79b162a70b2",
+    "sizeBytes": 6132544,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
