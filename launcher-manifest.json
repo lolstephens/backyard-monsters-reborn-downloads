@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.9",
-  "publishedAt": "2026-09-25T06:30:31Z",
+  "version": "0.3.10",
+  "publishedAt": "2026-09-27T20:58:48Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Chat opens at the newest messages after login or reconnect and respects manual history scrolling.",
-    "Invite Friends: personal invitation links in-game and on Account; friends count after tutorial completion. One-time milestone rewards: 25, 45 and 65 Shiny at 1, 5 and 10 friends.",
-    "Approved wooden-frame panel and transparent Shiny artwork. Retains game 0.3.8 gifting, 3 sends/day and 3 incoming gifts per rolling 24 hours."
+    "Hunt for Krallen restored: earn him through weekly attack loot instead of a free Town Hall 6 grant.",
+    "Original Map Room 2 and 3 quotas. Weekly rewards advance Krallen from level 1 to permanent level 5 after five consecutive successful weeks.",
+    "Includes weekly loot buff, missed-week handling and live event progress. Existing ownership is retained.",
+    "Close the game and update normally. Launcher 0.4.4 is unchanged."
   ],
   "client": {
-    "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/game-v0.3.9/BYMReborn.swf",
-    "sha256": "072dd9de3e3d050938485fd1d30d874d8c1321bd76175d1e843e489ec310372c",
-    "sizeBytes": 6168157,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.10/BYMReborn.swf",
+    "sha256": "2f98e426a8f4bae6515d883addb6b165ffafc40528dd40f6a429940f910d8240",
+    "sizeBytes": 6168510,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
