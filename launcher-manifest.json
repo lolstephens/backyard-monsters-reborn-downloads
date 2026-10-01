@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.10",
-  "publishedAt": "2026-09-27T20:58:48Z",
+  "version": "0.3.11",
+  "publishedAt": "2026-10-01T18:27:06Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Hunt for Krallen restored: earn him through weekly attack loot instead of a free Town Hall 6 grant.",
-    "Original Map Room 2 and 3 quotas. Weekly rewards advance Krallen from level 1 to permanent level 5 after five consecutive successful weeks.",
-    "Includes weekly loot buff, missed-week handling and live event progress. Existing ownership is retained.",
+    "Alliances: create or join, invitations, members, chat, relationships and power-ups.",
+    "Authentication recovery, rate-limit, building timer, worker path, yard-planner and monster targeting fixes.",
+    "Optional Shiny spending lock on Account, plus map API, performance and Inferno menu updates.",
+    "Preserves BYM Reborn Krallen progression, D.A.V.E. Club benefits, gifting and Invite Friends.",
     "Close the game and update normally. Launcher 0.4.4 is unchanged."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.10/BYMReborn.swf",
-    "sha256": "2f98e426a8f4bae6515d883addb6b165ffafc40528dd40f6a429940f910d8240",
-    "sizeBytes": 6168510,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.11/BYMReborn.swf",
+    "sha256": "b2f6771e3917341dec903e989dbe3a8021b6a7813235bfe900877c9339d07a7e",
+    "sizeBytes": 6203546,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
