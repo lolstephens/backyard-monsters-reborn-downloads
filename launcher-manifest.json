@@ -1,19 +1,18 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.12",
-  "publishedAt": "2026-10-02T07:58:31Z",
+  "version": "0.3.13",
+  "publishedAt": "2026-10-02T22:14:47Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Fixes the D.A.V.E. Club button disappearing after yard changes or returning from a battle.",
-    "Keeps one correctly positioned button with the appropriate member or join menu.",
-    "Memberships, monthly Shiny, billing and saved yards are unchanged.",
+    "Removes the special-character requirement from the game sign-in and create-account screens.",
+    "New passwords need eight characters; existing-password sign-in does not apply creation rules.",
     "Close the game and choose Update game. Launcher 0.4.4 is unchanged; no reinstall needed."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.12/BYMReborn.swf",
-    "sha256": "ea0ae2929ec57577f9031d4d02adaac47be2d8c8eca66f3d4f217de1472ae9d9",
-    "sizeBytes": 6209217,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.13/BYMReborn.swf",
+    "sha256": "4cc9294fdf1aa51478046cd09664a5c2825eac584c9029c2420b9ba7fae6448c",
+    "sizeBytes": 6209622,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
