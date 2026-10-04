@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.13",
-  "publishedAt": "2026-10-02T22:14:47Z",
+  "version": "0.3.14",
+  "publishedAt": "2026-10-04T21:10:07.124336Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Removes the special-character requirement from the game sign-in and create-account screens.",
-    "New passwords need eight characters; existing-password sign-in does not apply creation rules.",
-    "Close the game and choose Update game. Launcher 0.4.4 is unchanged; no reinstall needed."
+    "Fixes a Hatchery Control Center queue crash when membership updates arrive late or a yard changes.",
+    "Keeps queue purchases, refunds and membership restrictions unchanged.",
+    "Released alongside launcher 0.4.5 and improved signup, sign-in and Discord verification recovery.",
+    "Close the game, update the launcher when offered, then choose Update game. No reinstall needed."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.13/BYMReborn.swf",
-    "sha256": "4cc9294fdf1aa51478046cd09664a5c2825eac584c9029c2420b9ba7fae6448c",
-    "sizeBytes": 6209622,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.14/BYMReborn.swf",
+    "sha256": "f783d9d749dc3aa015877b32ac701ba924587a02bdee53846fe4d515474dfb0d",
+    "sizeBytes": 6210201,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {

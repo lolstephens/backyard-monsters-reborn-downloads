@@ -1,15 +1,15 @@
 {
-  "version": "0.4.4",
-  "notes": "Discord is now optional. Sign in with your Reborn account, install the game, and enter your yard without Discord verification. Existing accounts and progress are preserved.",
-  "pub_date": "2026-09-21T00:40:22.306Z",
+  "version": "0.4.5",
+  "notes": "Clearer signup and Discord setup, verification codes inside the launcher, automatic verification checks and recovery from expired sessions without reinstalling. Website and launcher sessions stay separate. Existing game files and progress are preserved.",
+  "pub_date": "2026-10-04T21:10:07.124336Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.4.4/BYM-Reborn-Launcher-Setup-0.4.4.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkcwcTcxMWF5SGN3RlZEdVhqaU9pNldnbnVXRjlNczFpM2JmaHBXenMvNExweWdhS05ELy9hZ3AxQ29ZaG5rWnE1UDQzSGU1ci90cWQ5QzJWT29hNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUwODAyCWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjQuNF94NjQtc2V0dXAuZXhlCjh6akc4UTlZNDk3RE1vcUN1THQ4aTNjcXR4ZUlXR29rY3pQVDEvTk5IODRiNnJZNXlPUmNpVW9MZ2V0QVVqZlNEb0pQRWErV0hMWG1zeTZza1JyYkFnPT0K"
+      "url": "https://bymreborn.com/assets/releases/launcher-0.4.5/BYM-Reborn-Launcher-Setup-0.4.5.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkdxYVNqU0hJZTFoQUZGaUluMTcrdE52Z3FZNUpWOW00cFdOY2MwZ2N4WndMSTNtOGVrSUtDS0RwU3lYR0tFVm1ZM3R6cWRiYjJSQVYySUhtYWpjWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTQ3ODI1CWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjQuNV94NjQtc2V0dXAuZXhlCm9ySXppT2Y3eWYzVHA2anpCUzhwRURwcUhoalUrWjJ2YVVJZzRXZ2ZPcjBzQ0pDdzlLazVpUUtjNjdyZHhrOFV0OEsxQ0dmNFpJQlEzc3pnNDQ0bURBPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/lolstephens/backyard-monsters-reborn-downloads/releases/download/v0.4.4/BYM-Reborn-Launcher-Setup-0.4.4.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkcwcTcxMWF5SGN3RlZEdVhqaU9pNldnbnVXRjlNczFpM2JmaHBXenMvNExweWdhS05ELy9hZ3AxQ29ZaG5rWnE1UDQzSGU1ci90cWQ5QzJWT29hNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUwODAyCWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjQuNF94NjQtc2V0dXAuZXhlCjh6akc4UTlZNDk3RE1vcUN1THQ4aTNjcXR4ZUlXR29rY3pQVDEvTk5IODRiNnJZNXlPUmNpVW9MZ2V0QVVqZlNEb0pQRWErV0hMWG1zeTZza1JyYkFnPT0K"
+      "url": "https://bymreborn.com/assets/releases/launcher-0.4.5/BYM-Reborn-Launcher-Setup-0.4.5.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTUxqL2JhaENObkdxYVNqU0hJZTFoQUZGaUluMTcrdE52Z3FZNUpWOW00cFdOY2MwZ2N4WndMSTNtOGVrSUtDS0RwU3lYR0tFVm1ZM3R6cWRiYjJSQVYySUhtYWpjWXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTQ3ODI1CWZpbGU6QllNIFJlYm9ybiBMYXVuY2hlcl8wLjQuNV94NjQtc2V0dXAuZXhlCm9ySXppT2Y3eWYzVHA2anpCUzhwRURwcUhoalUrWjJ2YVVJZzRXZ2ZPcjBzQ0pDdzlLazVpUUtjNjdyZHhrOFV0OEsxQ0dmNFpJQlEzc3pnNDQ0bURBPT0K"
     }
   }
 }
