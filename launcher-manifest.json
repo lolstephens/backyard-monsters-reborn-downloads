@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.15",
-  "publishedAt": "2026-10-17T05:26:04Z",
+  "version": "0.3.16",
+  "publishedAt": "2026-10-17T22:18:07Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Restores Krallen portraits at earned levels 1-4 in the flinger and attack preview.",
-    "Prevents Error #1009 from fortification images arriving after a building has been cleared.",
-    "Earned levels, stats, ownership and saved yards are unchanged.",
+    "Fixes the Wild Monster Invasion event-ended popup repeating after attacks.",
+    "The notice is acknowledged once from your own main yard; attacks and visits no longer retrigger it.",
+    "Invasion waves, rewards and combat are unchanged. Includes the game 0.3.15 fixes.",
     "Close the game and choose Update game. Launcher 0.4.5 is unchanged; no reinstall needed."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.15/BYMReborn.swf",
-    "sha256": "e5a59d4d14f723cfd9a6b930b8fa699e56fd7262c68270f5ac441d2ed5e1f993",
-    "sizeBytes": 6210257,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.16/BYMReborn.swf",
+    "sha256": "f3330cf7f0cd544149677d1e12a5e2fd5a7cd60ecc13317237629ddabcd9ec7b",
+    "sizeBytes": 6210315,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
