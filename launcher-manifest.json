@@ -1,19 +1,21 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.17",
-  "publishedAt": "2026-10-22T15:55:09Z",
+  "version": "0.3.18",
+  "publishedAt": "2026-10-22T20:30:41Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "The Shiny Shop now shows the original price crossed out in red with the sale price below.",
-    "Normal pricing is unchanged when no sale is active. Open sale catalogs refresh automatically.",
-    "Shiny quantities, pack bonuses and D.A.V.E. Club are unchanged.",
+    "Brukkarg War: five-day launch event, enemy bases, copied-yard finale and Spurtz rewards.",
+    "New friends, construction help, relocation and accepted-friend gifts.",
+    "PvP level limits, vengeance, consistent combat timing and alliance world rules. Resource outposts remain available to high-level players.",
+    "Planner, rendering and save fixes; approved native Shiny shop redesign.",
+    "Krallen 250m quota/outpost loot, D.A.V.E. benefits and separate logins preserved.",
     "Close the game and choose Update game. Launcher 0.4.5 is unchanged; no reinstall needed."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.17/BYMReborn.swf",
-    "sha256": "bce6d5f0f1412dc925deaa34d0a9df77f613c7ad2886d1a1a9a0e15321a6cf08",
-    "sizeBytes": 6210952,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.18/BYMReborn.swf",
+    "sha256": "6eb86564b71a3e7557687947a28d7d0b15ae235e8b79de472e39e23ff600d7db",
+    "sizeBytes": 4408098,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
