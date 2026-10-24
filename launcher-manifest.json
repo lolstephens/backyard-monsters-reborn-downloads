@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.19",
-  "publishedAt": "2026-10-23T19:09:55Z",
+  "version": "0.3.20",
+  "publishedAt": "2026-10-24T14:18:43Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Browser HUD labels keep their native outlines; the event countdown stays on one line.",
-    "Only one game session per account across browser tabs and desktop. Replaced sessions halt gameplay and disconnect chat.",
-    "Close the game and choose Update game. Launcher 0.4.5 is unchanged; no reinstall needed."
+    "Brukkarg Spurtz Cannon rewards now persist under server control and keep the highest earned tier.",
+    "Regular and Black Diamond cannons share the earned limit. Existing yards and rewards are preserved.",
+    "Expired events no longer start another attack or defense wave. Close the game and choose Update game; launcher 0.4.5 is unchanged."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.19/BYMReborn.swf",
-    "sha256": "37e385fe0d9ec0db64a5a1a2870a0e17a98f6434021a2f9db66e21d8eb7baeb7",
-    "sizeBytes": 4409321,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.20/BYMReborn.swf",
+    "sha256": "9a5e3328f37b904c3ca658af0f66ea449085652c5d6d90868909d745fa02408a",
+    "sizeBytes": 4409370,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
