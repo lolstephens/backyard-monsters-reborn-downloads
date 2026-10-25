@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.3.20",
-  "publishedAt": "2026-10-24T14:18:43Z",
+  "version": "0.3.21",
+  "publishedAt": "2026-10-25T03:20:42Z",
   "serverName": "BYM Reborn",
   "releaseNotes": [
-    "Brukkarg Spurtz Cannon rewards now persist under server control and keep the highest earned tier.",
-    "Regular and Black Diamond cannons share the earned limit. Existing yards and rewards are preserved.",
-    "Expired events no longer start another attack or defense wave. Close the game and choose Update game; launcher 0.4.5 is unchanged."
+    "Fixed queued Inferno Cavern transitions that could immediately return you to your main yard.",
+    "Fixed Store opening Error #2025 after yard changes and popup/blocker cleanup.",
+    "Browser players: reload /play. Desktop players: close the game and choose Update game. Launcher 0.4.5 is unchanged."
   ],
   "client": {
-    "url": "https://bymreborn.com/assets/releases/game-0.3.20/BYMReborn.swf",
-    "sha256": "9a5e3328f37b904c3ca658af0f66ea449085652c5d6d90868909d745fa02408a",
-    "sizeBytes": 4409370,
+    "url": "https://bymreborn.com/assets/releases/game-0.3.21/BYMReborn.swf",
+    "sha256": "32d736ae5ea8f4e1f4f4bb51acbf66b22ce0c2cccd5218445a3ef1d556050036",
+    "sizeBytes": 4409421,
     "fileName": "BYMReborn.swf"
   },
   "runtimes": {
